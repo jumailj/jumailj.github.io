@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jumailj.netlify.app
+Token: 51fc65bd8ae5045082d2b7ff30dc33a4676c9db573c187959c6a725bbb074700
